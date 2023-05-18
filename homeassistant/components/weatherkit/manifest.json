@@ -1,0 +1,13 @@
+{
+  "domain": "weatherkit",
+  "name": "WeatherKit",
+  "codeowners": ["@zrides"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/weatherkit",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
